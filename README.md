@@ -23,12 +23,10 @@ DB_PASSWORD: Пароль пользователя базы данных.
 
 Python3 должен быть уже установлен. Затем используйте pip (или pip3, есть конфликт с Python2) для установки зависимостей:
 
-```bash
 pip install -r requirements.txt
 
 Запустите сервер:
 
-```bash
 python manage.py runserver localhost:8000
 
 После запуска сервера, вы сможете получить доступ к приложению в браузере по адресу: http://localhost:8000/
@@ -36,3 +34,7 @@ python manage.py runserver localhost:8000
 ## Цель проекта
 
 Код написан в образовательных целях на онлайн-курсе для веб-разработчиков dvmn.org.
+
+```bash
+pip install -r requirements.txt
+python manage.py runserver localhost:8000
