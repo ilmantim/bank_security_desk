@@ -1,0 +1,17 @@
+
+.env
+.cache/
+.config/
+upm/
+scripts/
+lib/
+repl/
+poetry.lock
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
