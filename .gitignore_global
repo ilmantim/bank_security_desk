@@ -2,9 +2,9 @@
 .env
 .cache/
 .config/
-upm/
-scripts/
-lib/
+.upm/
+Scripts/
+Lib/
 repl/
 poetry.lock
 __pycache__/
